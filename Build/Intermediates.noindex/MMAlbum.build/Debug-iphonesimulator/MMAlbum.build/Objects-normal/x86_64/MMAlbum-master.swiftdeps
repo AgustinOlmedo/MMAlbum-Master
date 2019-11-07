@@ -1,0 +1,19 @@
+version: "Apple Swift version 5.1 (swiftlang-1100.0.270.13 clang-1100.0.33.7)"
+options: "e0a4991eb494eee052aaaf993125e454"
+build_time: [1573145865, 223945000]
+inputs:
+  "/Users/hackstudio7/Documents/Proyect/untitled folder/sarasa/MMAlbum/Views/AlbumDetailListCell/AlbumDetailListCollectionViewCell.swift": !dirty [1573134092, 142555649]
+  "/Users/hackstudio7/Documents/Proyect/untitled folder/sarasa/MMAlbum/Views/AlbumListCell/AlbumListCollectionViewCell.swift": !dirty [1571949300, 526066498]
+  "/Users/hackstudio7/Documents/Proyect/untitled folder/sarasa/MMalbum/Model/PhotoLoader.swift": !dirty [1573135446, 663829162]
+  "/Users/hackstudio7/Documents/Proyect/untitled folder/sarasa/MMAlbum/Controller/AlbumListVC/AlbumListViewController.swift": !dirty [1573145862, 519541459]
+  "/Users/hackstudio7/Documents/Proyect/untitled folder/sarasa/MMAlbum/Controller/PhotoVC/PhotoViewController.swift": !dirty [1573134005, 13798561]
+  "/Users/hackstudio7/Documents/Proyect/untitled folder/sarasa/MMAlbum/AppDelegate.swift": !dirty [1571949219, 352673193]
+  "/Users/hackstudio7/Documents/Proyect/untitled folder/sarasa/MMAlbum/Controller/AlbumListVC/AlbumListViewController+TableView.swift": !dirty [1571948483, 564052425]
+  "/Users/hackstudio7/Documents/Proyect/untitled folder/sarasa/MMAlbum/Views/AlbumListCell/AlbumListCollectionTableViewCell.swift": !dirty [1571949351, 281755716]
+  "/Users/hackstudio7/Documents/Proyect/untitled folder/sarasa/MMAlbum/Controller/AlbumDetailVC/AlbumDetailListViewController.swift": !dirty [1573134172, 695707543]
+  "/Users/hackstudio7/Documents/Proyect/untitled folder/sarasa/MMAlbum/Controller/AlbumListVC/AlbumListViewController+CollectionView.swift": !dirty [1572013221, 774920041]
+  "/Users/hackstudio7/Documents/Proyect/untitled folder/sarasa/MMAlbum/Controller/AlbumDetailVC/AlbumDetailListViewController+CollectionView.swift": !dirty [1571965426, 639472212]
+  "/Users/hackstudio7/Documents/Proyect/untitled folder/sarasa/MMalbum/Model/Album.swift": !dirty [1573135411, 976566710]
+  "/Users/hackstudio7/Documents/Proyect/untitled folder/sarasa/MMAlbum/SceneDelegate.swift": !dirty [1571948324, 432026179]
+  "/Users/hackstudio7/Documents/Proyect/untitled folder/sarasa/MMalbum/Utils/UIColor+Randomizer.swift": !dirty [1573129175, 4110580]
+  "/Users/hackstudio7/Documents/Proyect/untitled folder/sarasa/MMalbum/Model/Photo.swift": !dirty [1571921235, 173008442]

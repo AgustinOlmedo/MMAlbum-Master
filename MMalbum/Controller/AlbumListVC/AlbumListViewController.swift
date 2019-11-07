@@ -3,7 +3,6 @@
 //
 
 import UIKit
-import SwiftyJSON
 import Alamofire
 
 class AlbumListViewController: UIViewController, UITableViewDelegate, UITableViewDataSource, UICollectionViewDataSource, UICollectionViewDelegate {
