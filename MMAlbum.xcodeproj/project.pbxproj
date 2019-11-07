@@ -16,13 +16,13 @@
 		A929A43E2358A5D9004C5621 /* AlbumListCollectionTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A929A43D2358A5D9004C5621 /* AlbumListCollectionTableViewCell.swift */; };
 		A929A4402358A5FA004C5621 /* AlbumListCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A929A43F2358A5FA004C5621 /* AlbumListCollectionViewCell.swift */; };
 		A929A4442358A66B004C5621 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A929A4432358A66B004C5621 /* Main.storyboard */; };
-		A94795F3237455E4004AB540 /* PhotoLoader.swift in Sources */ = {isa = PBXBuildFile; fileRef = A94795F2237455E4004AB540 /* PhotoLoader.swift */; };
+		A94795F3237455E4004AB540 /* Album.swift in Sources */ = {isa = PBXBuildFile; fileRef = A94795F2237455E4004AB540 /* Album.swift */; };
 		A94CA67223623D14004CF111 /* UIColor+Randomizer.swift in Sources */ = {isa = PBXBuildFile; fileRef = A94CA67123623D14004CF111 /* UIColor+Randomizer.swift */; };
 		A9A0005A236235A800BCF7C4 /* AlbumDetailListViewController+CollectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9A00059236235A800BCF7C4 /* AlbumDetailListViewController+CollectionView.swift */; };
 		A9A000652362385000BCF7C4 /* AlbumListViewController+TableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9A0005D236236DB00BCF7C4 /* AlbumListViewController+TableView.swift */; };
 		A9A000662362385A00BCF7C4 /* AlbumListViewController+CollectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9A0005B2362368500BCF7C4 /* AlbumListViewController+CollectionView.swift */; };
-		A9CE0B6C2358A7B700B689BC /* Album.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9CE0B692358A7B700B689BC /* Album.swift */; };
-		A9CE0B6D2358A7B700B689BC /* Photo.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9CE0B6A2358A7B700B689BC /* Photo.swift */; };
+		A9CE0B6C2358A7B700B689BC /* Photo.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9CE0B692358A7B700B689BC /* Photo.swift */; };
+		A9CE0B6D2358A7B700B689BC /* PhotoLoader.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9CE0B6A2358A7B700B689BC /* PhotoLoader.swift */; };
 		A9CE0B92235DEF6300B689BC /* AlbumDetailListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9CE0B91235DEF6300B689BC /* AlbumDetailListViewController.swift */; };
 		A9CE0B94235E4D2D00B689BC /* AlbumDetailListCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9CE0B93235E4D2D00B689BC /* AlbumDetailListCollectionViewCell.swift */; };
 		A9CE0B96235F534600B689BC /* PhotoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9CE0B95235F534500B689BC /* PhotoViewController.swift */; };
@@ -41,13 +41,13 @@
 		A929A43D2358A5D9004C5621 /* AlbumListCollectionTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlbumListCollectionTableViewCell.swift; sourceTree = "<group>"; };
 		A929A43F2358A5FA004C5621 /* AlbumListCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlbumListCollectionViewCell.swift; sourceTree = "<group>"; };
 		A929A4432358A66B004C5621 /* Main.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
-		A94795F2237455E4004AB540 /* PhotoLoader.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = PhotoLoader.swift; path = ../../../../../../.Trash/PhotoLoader.swift; sourceTree = "<group>"; };
+		A94795F2237455E4004AB540 /* Album.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Album.swift; path = "../../../../untitled folder/sarasa/MMalbum/Model/Album.swift"; sourceTree = "<group>"; };
 		A94CA67123623D14004CF111 /* UIColor+Randomizer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = "UIColor+Randomizer.swift"; path = "MMalbum/Utils/UIColor+Randomizer.swift"; sourceTree = SOURCE_ROOT; };
 		A9A00059236235A800BCF7C4 /* AlbumDetailListViewController+CollectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = "AlbumDetailListViewController+CollectionView.swift"; path = "MMAlbum/Controller/AlbumDetailVC/AlbumDetailListViewController+CollectionView.swift"; sourceTree = SOURCE_ROOT; };
 		A9A0005B2362368500BCF7C4 /* AlbumListViewController+CollectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = "AlbumListViewController+CollectionView.swift"; path = "MMAlbum/Controller/AlbumListVC/AlbumListViewController+CollectionView.swift"; sourceTree = SOURCE_ROOT; };
 		A9A0005D236236DB00BCF7C4 /* AlbumListViewController+TableView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = "AlbumListViewController+TableView.swift"; path = "MMAlbum/Controller/AlbumListVC/AlbumListViewController+TableView.swift"; sourceTree = SOURCE_ROOT; };
-		A9CE0B692358A7B700B689BC /* Album.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Album.swift; sourceTree = "<group>"; };
-		A9CE0B6A2358A7B700B689BC /* Photo.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Photo.swift; sourceTree = "<group>"; };
+		A9CE0B692358A7B700B689BC /* Photo.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Photo.swift; path = "../../../../untitled folder/sarasa/MMalbum/Model/Photo.swift"; sourceTree = "<group>"; };
+		A9CE0B6A2358A7B700B689BC /* PhotoLoader.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = PhotoLoader.swift; path = "../../../../untitled folder/sarasa/MMalbum/Model/PhotoLoader.swift"; sourceTree = "<group>"; };
 		A9CE0B91235DEF6300B689BC /* AlbumDetailListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlbumDetailListViewController.swift; sourceTree = "<group>"; };
 		A9CE0B93235E4D2D00B689BC /* AlbumDetailListCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlbumDetailListCollectionViewCell.swift; sourceTree = "<group>"; };
 		A9CE0B95235F534500B689BC /* PhotoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoViewController.swift; sourceTree = "<group>"; };
@@ -198,9 +198,9 @@
 		A9CE0B682358A7B700B689BC /* Model */ = {
 			isa = PBXGroup;
 			children = (
-				A94795F2237455E4004AB540 /* PhotoLoader.swift */,
-				A9CE0B692358A7B700B689BC /* Album.swift */,
-				A9CE0B6A2358A7B700B689BC /* Photo.swift */,
+				A94795F2237455E4004AB540 /* Album.swift */,
+				A9CE0B692358A7B700B689BC /* Photo.swift */,
+				A9CE0B6A2358A7B700B689BC /* PhotoLoader.swift */,
 			);
 			name = Model;
 			path = ../../../MK/MonkCarrousel/MonkCarrousel/Model;
@@ -330,7 +330,7 @@
 			files = (
 				A9CE0B94235E4D2D00B689BC /* AlbumDetailListCollectionViewCell.swift in Sources */,
 				A929A4402358A5FA004C5621 /* AlbumListCollectionViewCell.swift in Sources */,
-				A9CE0B6D2358A7B700B689BC /* Photo.swift in Sources */,
+				A9CE0B6D2358A7B700B689BC /* PhotoLoader.swift in Sources */,
 				A929A40A2357AC5C004C5621 /* AlbumListViewController.swift in Sources */,
 				A9CE0B96235F534600B689BC /* PhotoViewController.swift in Sources */,
 				A929A4062357AC5C004C5621 /* AppDelegate.swift in Sources */,
@@ -339,10 +339,10 @@
 				A9CE0B92235DEF6300B689BC /* AlbumDetailListViewController.swift in Sources */,
 				A9A000662362385A00BCF7C4 /* AlbumListViewController+CollectionView.swift in Sources */,
 				A9A0005A236235A800BCF7C4 /* AlbumDetailListViewController+CollectionView.swift in Sources */,
-				A94795F3237455E4004AB540 /* PhotoLoader.swift in Sources */,
+				A94795F3237455E4004AB540 /* Album.swift in Sources */,
 				A929A4082357AC5C004C5621 /* SceneDelegate.swift in Sources */,
 				A94CA67223623D14004CF111 /* UIColor+Randomizer.swift in Sources */,
-				A9CE0B6C2358A7B700B689BC /* Album.swift in Sources */,
+				A9CE0B6C2358A7B700B689BC /* Photo.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
