@@ -1,8 +1,4 @@
 //
-//  RandoMColor.swift
-//  MMAlbum
-//
-//  Created by Macmini2 on 24/10/2019.
 //  Copyright © 2019 Agustin Olmedo. All rights reserved.
 //
 

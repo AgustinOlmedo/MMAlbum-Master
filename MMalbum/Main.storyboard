@@ -184,6 +184,9 @@
                                 </constraints>
                                 <viewLayoutGuide key="contentLayoutGuide" id="xUg-DJ-Lrs"/>
                                 <viewLayoutGuide key="frameLayoutGuide" id="aoQ-IW-HQp"/>
+                                <connections>
+                                    <outlet property="delegate" destination="01S-aP-hBc" id="EW1-09-wdG"/>
+                                </connections>
                             </scrollView>
                         </subviews>
                         <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>

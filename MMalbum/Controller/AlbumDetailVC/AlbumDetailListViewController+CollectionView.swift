@@ -58,7 +58,6 @@ extension AlbumDetailListViewController {
    // MARK: - Navigation Prepare
 
    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
-       // When a collection view cell is selected, prepare for the segue to the PhotoViewController.
        if segue.identifier == reuseSegue {
            if let photoVC = segue.destination as? PhotoViewController  {
                    let photoToPresent = sender as! Photo?
